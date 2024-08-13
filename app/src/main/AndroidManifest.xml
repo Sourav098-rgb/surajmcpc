@@ -13,6 +13,12 @@
         android:theme="@style/Theme.Surajmcpc"
         tools:targetApi="31">
         <activity
+            android:name=".Jetpac_navigation"
+            android:exported="false" />
+        <activity
+            android:name=".fragment_lifecycle"
+            android:exported="false" />
+        <activity
             android:name=".Dialog_box"
             android:exported="false" />
         <activity

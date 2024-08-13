@@ -2,4 +2,5 @@
 <resources>
     <item name="Button" type="id" />
     <item name="textview" type="id" />
+    <item name="textView" type="id" />
 </resources>
